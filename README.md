@@ -24,4 +24,4 @@ Edge-AI fruit & veg counter that **detects**, **weighs** and **prices** items in
 ## 🔧 Quick start
 1. **Clone repo**
    ```bash
-   git clone https://github.com/<your-user>/esp32-cam-autobill.git
+   git clone https://github.com/mehrab2031025/esp32-cam-autobill.git
